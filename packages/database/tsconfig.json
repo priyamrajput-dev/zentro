@@ -1,0 +1,3 @@
+{
+  "extends": ["@zentro/typescript-config/node.json"],
+}
